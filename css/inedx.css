@@ -1,0 +1,164 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+p{
+	font-family: 微软雅黑;
+	font-size: 18px;
+	color: #404042;
+}
+.header{
+	background-color: rgba(255, 0, 0, 0);
+	width: 980px;
+	height: 80px;
+	margin:0 auto ;
+}
+.headerimg{
+	background-color: #000000;
+	width: 190px;
+	height: 80px;
+	float: left;
+}
+.headerimg img{
+	width:100%;
+	height:100%;
+
+}
+.headerselect{
+	background-color: rgba(99, 36, 36, 0);
+	width: 150px;
+	height: 80px;
+	float: left;
+}
+.headerselect select{
+	width: 120px;
+	height: 30px;
+	position: relative;
+	top: 40%;
+	border: #000000;
+	border-style: solid;
+	border-width: 1px;
+}
+.imgtxt1{
+	background-color: rgba(28, 185, 185, 0);
+	width: 430px;
+	height: 60px;
+	position: absolute;
+	top: 40%;
+	left: 80px;
+	font-size:43px;
+	font-weight: 800;
+	color: aliceblue;
+}
+.imgtxt2{
+	background-color: rgba(28, 185, 185, 0);
+	width: 430px;
+	height: 60px;
+	position: absolute;
+	top: 29%;
+	left: 80px;
+	font-size:30px;
+	font-weight: 500;
+	color: aliceblue;
+
+}
+.headerlink{
+	background-color:#00000000;
+	width: 200px;
+	height: 80px;
+	float: right;
+}
+.headerlink p{
+	text-align: center;
+	position: relative;
+	top: 32%;
+}
+.nav{
+	width:980px;
+	height: 50px;
+	background-color: palegoldenrod;
+	margin: 0 auto;
+}
+.nav ul{
+	width: 980px;
+	margin: 0 auto;
+    list-style: none;
+}
+.nav li{
+	float:left;
+}
+.aa{
+	display: block;
+	background-color:rgb(192, 182, 184);
+	width: auto;
+	height: 50px;
+	float: left;
+	font-weight: bolder;
+	line-height: 50px;
+	padding-left:8%;
+	width: 12%;
+}
+.banner{
+	background-color: rgba(0, 255, 255, 0);
+	position:relative;
+	left: 0;
+	right: 0;
+	width: 980px;
+	margin:0 auto;
+}
+.banner img{
+	width:980px;
+}
+.main{
+	background-color: rgb(192, 182, 184);
+	width: 980px;
+	height: 800px;
+	margin: 0 auto;
+}
+.main1{
+	background-color: rgba(0, 0, 0, 0);
+	width: 980px;
+	position: relative;
+	margin: 0 auto;
+	left: 0;
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: #000000;
+	border-style: solid;
+	border-bottom-width: 1px;
+
+}
+.main input{
+	height: 30px;
+	border-color: #000000;
+	border-style: solid;
+	border-width: 2px;
+}
+.in1{
+	width: 400px;
+	margin-right: 20px;
+}
+.in2{
+	width: 90px;
+}
+.img1 img{
+	margin-left: 20px;
+	margin-top: 20px;
+	border: #000000;
+	border-width: 3px;
+	border-style: solid;
+}
+  
+.footer{
+	background-color: #6d6d6d;
+	width: 980px;
+	height: 60px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 18px;
+}
+.footer p{
+	color: #ffffff;
+}
+
